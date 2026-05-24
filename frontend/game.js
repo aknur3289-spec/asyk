@@ -4,7 +4,7 @@
  */
 
 // ── Config ───────────────────────────────────────────────────────────────────
-const API_BASE = "http://127.0.0.1:8000"; // ← замените на свой Render URL
+const API_BASE = "https://asyk.onrender.com"; // ← замените на свой Render URL
 
 const CFG = {
   ringRadius: 160,
